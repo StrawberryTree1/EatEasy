@@ -40,9 +40,6 @@ Eat Easy is a modern, responsive web application designed to help users quickly 
 
 ---
 
-Want me to also draft a **Netlify-ready version** of this section (switching Vercel → Netlify) so your README matches how you’ll actually deploy it?
-
-
 ### **How to Run the Project Locally**
 
 1.  **Clone the Repository:**
